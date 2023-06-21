@@ -8,7 +8,7 @@ Student 06
 Student 07
 Student 08
 Student 09
-Student 10
+tschinz
 Student 11
 Student 12
 Student 13
