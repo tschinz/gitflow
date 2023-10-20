@@ -1,5 +1,5 @@
 Student 00
-Student 01
+Student Dinel Memic
 Student 02
 Student 03
 Student 04
