@@ -1,7 +1,7 @@
 Student 00
 Student 01
 Student 02
-Student 03
+Vivian Pittet
 Student 04
 Student 05
 Student 06
