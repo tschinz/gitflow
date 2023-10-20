@@ -5,7 +5,7 @@ Student 03
 Student 04
 Student 05
 Student 06
-Student 07
+Yannic Delisle
 Student 08
 Student 09
 Student 10
